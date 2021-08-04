@@ -1,4 +1,4 @@
-### Hi there I am Rafiur Rahman Protik👋
+### Hi there I'm Rafiur Rahman Protik👋
 
 
 - 🌱 I’m a Mern Stack Developer.
@@ -16,7 +16,6 @@
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/Rafiur.Rahman.Protik) 
 [![Medium Read](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@rafiurrahmanprotik) 
 [![Questions Ask](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/16166513/rafiur-rahman-protik?tab=profile) 
- [YouTube Channel](https://www.youtube.com/channel/UCVavh_xp83uNPhLUzhJLWuQ)
 
 <br />
 
