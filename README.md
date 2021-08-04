@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m a Mern Stack Developer.
-- 👩‍🎓 Currently I'm doing my B.Sc. in computer science and engineering at American International University Bangladesh.
+- 👩‍🎓 Currently I'm doing my B.Sc. in Computer Science and Engineering at American International University Bangladesh.
 - 🏃🏻‍♀️ My mission is to learn and grow! So that one day I'll be able to contribute to the Tech community.
 - 🏁 My dream is to become a Software Developer, and to solve real world problems!
 - 📫 How to reach me: rafiurprotik111@gmail.com
@@ -42,7 +42,7 @@
 <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)
+![Codeblocks](https://img.shields.io/badge/-Codeblocks-05122A?style=flat&logo=Codeblocks-ide&logoColor=2C2255)
 
 <!--
 **Protik111/Protik111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
