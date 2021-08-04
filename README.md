@@ -41,8 +41,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+![Protik111's github stats](https://github-readme-stats.vercel.app/api?username=Protik111&show_icons=true&theme=radical)
 
-https://github-readme-stats.vercel.app/api?username=Protik111&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Protik111&card_width=550&show_icons=true&theme=radical)](https://github.com/Protik111)
 
 <!--
 **Protik111/Protik111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
