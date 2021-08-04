@@ -2,12 +2,10 @@
 
 
 - 🌱 I’m a Mern Stack Developer.
-- 📫 How to reach me: rafiurprotik111@gmail.com
-
-
 - 👩‍🎓 Currently I'm doing my B.Sc. in computer science and engineering at American International University Bangladesh.
 - 🏃🏻‍♀️ My mission is to learn and grow! So that one day I'll be able to contribute to the Tech community.
-- 🏁 My dream is to become a Software Developer, and to solve real world problems!</p>
+- 🏁 My dream is to become a Software Developer, and to solve real world problems!
+- 📫 How to reach me: rafiurprotik111@gmail.com
 
 
 ### Connect with me:
