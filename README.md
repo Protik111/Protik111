@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m a Mern Stack Developer.
-- 👩‍🎓 Currently I'm doing my B.Sc. in Computer Science and Engineering at American International University Bangladesh.
+- 🎓 Currently I'm doing my B.Sc. in Computer Science and Engineering at American International University Bangladesh.
 - 🏃🏻‍♀️ My mission is to learn and grow! So that one day I'll be able to contribute to the tech community.
 - 🏁 My dream is to become a Software Developer, and to solve real world problems!
 - 📫 How to reach me: rafiurprotik111@gmail.com
@@ -20,7 +20,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C);
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=#f2ece4)&nbsp;
 <br />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -33,7 +33,7 @@
 <br />
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=FFA518)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=c-sharp&logoColor=FFA518);
+![C#](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=c-sharp&logoColor=FFA518)&nbsp;
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
