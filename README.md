@@ -42,7 +42,7 @@
 <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-05122A?style=flat&logo=Code::Blocks-ide&logoColor=2C2255)
+![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-05122A?style=flat&logo=CodeBlocks-ide&logoColor=2C2255)&nbsp;
 
 <!--
 **Protik111/Protik111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
