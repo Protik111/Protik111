@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there I am Rafiur Rahman Protik👋
+
+
+- 🌱 I’m a Mern Stack Developer.
+- 📫 How to reach me: rafiurprotik111@gmail.com
+- ⚡ Fun fact: I have a youtube channel.
+
+- 👩‍🎓Im a Computer Science Student at Heritage Institute Of Technology and I love problem solving.
+- 🏃🏻‍♀️My mission is to learn and grow!So that one day Ill be able to contribute to the Tech community.
+- 🏁My dream is to become a Software Developer, and to solve real world problems!</p>
+
 
 <!--
 **Protik111/Protik111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
