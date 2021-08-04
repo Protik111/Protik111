@@ -3,7 +3,7 @@
 
 - 🌱 I’m a Mern Stack Developer.
 - 👩‍🎓 Currently I'm doing my B.Sc. in Computer Science and Engineering at American International University Bangladesh.
-- 🏃🏻‍♀️ My mission is to learn and grow! So that one day I'll be able to contribute to the Tech community.
+- 🏃🏻‍♀️ My mission is to learn and grow! So that one day I'll be able to contribute to the tech community.
 - 🏁 My dream is to become a Software Developer, and to solve real world problems!
 - 📫 How to reach me: rafiurprotik111@gmail.com
 
@@ -16,7 +16,6 @@
 [![Questions Ask](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/16166513/rafiur-rahman-protik?tab=profile) 
 
 <br />
-
 
 ### 🛠 &nbsp;Tech Stack
 
