@@ -1,7 +1,7 @@
 ### Hi there I'm Rafiur Rahman Protik. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🌱 I’m a Mern Stack Developer.
+- 🌱 I’m a JavaScript Developer.
 - 🎓 Currently I'm doing my B.Sc. in Computer Science and Engineering at American International University Bangladesh.
 - 🏃🏻‍♀️ My mission is to learn and grow! So that one day I'll be able to contribute to the tech community.
 - 🏁 My dream is to become a Software Developer, and to solve real world problems!
