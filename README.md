@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m a Software Developer.
-- 🎓 Currently I'm doing my B.Sc. in Computer Science and Engineering at American International University Bangladesh.
+- 🎓 I've graduated from American International University Bangladesh in Computer Science and Engineering department.
 - 🏃🏻‍♀️ My mission is to learn and grow! So that one day I'll be able to contribute to the tech community.
 - 🏁 My dream is to become a Software Developer, and to solve real world problems!
 - 📫 How to reach me: rafiurprotik111@gmail.com
@@ -26,7 +26,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=jQuery)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 <br />
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=Mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
@@ -39,6 +40,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
 ![Protik111's github stats](https://github-readme-stats.vercel.app/api?username=Protik111&show_icons=true&theme=radical)
 
