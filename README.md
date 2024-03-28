@@ -36,12 +36,12 @@
 <br />
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![React Query](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=reactQuery)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heorku)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=HEROKU)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
 <br />
-![Ant Design](https://img.shields.io/badge/-antdesign-05122A?style=flat&logo=antdesign&logoColor=007ACC)&nbsp;
+![Ant Design](https://img.shields.io/badge/-Ant Design-05122A?style=flat&logo=antdesign&logoColor=007ACC)&nbsp;
 ![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui)&nbsp;
 ![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-05122A?style=flat&logo=mantine)&nbsp;
 <br />
