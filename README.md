@@ -40,7 +40,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
 <br />
-![Ant Design](https://img.shields.io/badge/-Ant%Design-05122A?style=flat&logo=antdesign&logoColor=007ACC)&nbsp;
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=antdesign&logoColor=007ACC)&nbsp;
 ![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui)&nbsp;
 ![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-05122A?style=flat&logo=mantine)&nbsp;
 <br />
