@@ -33,6 +33,7 @@
 <br />
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=Mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)&nbsp;
 <br />
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![React Query](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=reactQuery)&nbsp;
