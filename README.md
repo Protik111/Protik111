@@ -1,7 +1,7 @@
 ### Hi there I'm Rafiur Rahman Protik. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🌱 I'm a Software Engineer with expertise in React, Next.js, and Node.js, dedicated to crafting dynamic web experiences with a strong focus on performance and scalability.
+- 🌱 I'm a Software Engineer specializing in React, Next.js, and Node.js, focused on building high-performance, scalable web applications.
 - 🏃🏻‍♀️ Committed to personal and professional growth, aiming to make meaningful contributions to the tech community.
 - 🏁 Enthusiast of clean code, design patterns, solving complex problems, and scalable architectures. 
 - 📫 How to reach me: rafiurprotik111@gmail.com
