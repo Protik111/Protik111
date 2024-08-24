@@ -1,10 +1,9 @@
 ### Hi there I'm Rafiur Rahman Protik. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🌱 I’m a Software Developer.
-- 🎓 I've graduated from American International University Bangladesh in Computer Science and Engineering department.
-- 🏃🏻‍♀️ My mission is to learn and grow! So that one day I'll be able to contribute to the tech community.
-- 🏁 My dream is to become a Software Developer, and to solve real world problems!
+- 🌱 I'm a Software Engineer with expertise in React, Next.js, and Node.js, dedicated to crafting dynamic web experiences with a strong focus on performance and scalability.
+- 🏃🏻‍♀️ Committed to personal and professional growth, aiming to make meaningful contributions to the tech community.
+- 🏁 Enthusiast of clean code, design patterns, solving complex problems, and scalable architectures. 
 - 📫 How to reach me: rafiurprotik111@gmail.com
 
 
