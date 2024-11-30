@@ -51,7 +51,7 @@
 <br />
 ![Dcoker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws&logoColor=007ACC)&nbsp;
+![AWS](https://img.shields.io/badge/-aws-05122A?style=flat&logo=aws&logoColor=007ACC)&nbsp;
 
 ![Protik111's github stats](https://github-readme-stats.vercel.app/api?username=Protik111&show_icons=true&theme=radical)
 
