@@ -33,6 +33,7 @@
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=Mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)&nbsp;
 <br />
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![React Query](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=reactQuery)&nbsp;
@@ -47,6 +48,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+<br />
+![Dcoker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws&logoColor=007ACC)&nbsp;
 
 ![Protik111's github stats](https://github-readme-stats.vercel.app/api?username=Protik111&show_icons=true&theme=radical)
 
