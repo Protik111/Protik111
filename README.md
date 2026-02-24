@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1> 
 
-<h3 align="center">I'm <span>Rafiur Rahman Protik</span> • Full-stack Software Engineer, Cloud Architect & DevOps Enthusiast</h3>
+<h3 align="center">I'm <span>Rafiur Rahman Protik</span> • Full-stack Software Engineer & DevOps Enthusiast</h3>
 
 <p align="left">
 Welcome to my GitHub! I’m a passionate Full-stack Software Engineer building scalable, production-ready applications and cloud-native solutions. My expertise spans <strong>React.js, Next.js, TypeScript, Node.js, Docker, AWS, CI/CD, and microservices architecture</strong>.
