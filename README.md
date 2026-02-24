@@ -1,11 +1,12 @@
-### Hi there I'm Rafiur Rahman Protik. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi there 👋</h1> 
 
+<h3 align="center">I'm <span>Rafiur Rahman Protik</span> • Full-stack Software Engineer, Cloud Architect & DevOps Enthusiast</h3>
 
-- 🌱 I'm a Software Engineer specializing in React, Next.js, and Node.js, focused on building high-performance, scalable web applications.
-- 🏃🏻‍♀️ Committed to personal and professional growth, aiming to make meaningful contributions to the tech community.
-- 🏁 Enthusiast of clean code, design patterns, solving complex problems, and scalable architectures. 
-- 📫 How to reach me: rafiurprotik111@gmail.com
+<p align="left">
+Welcome to my GitHub! I’m a passionate Full-stack Software Engineer building scalable, production-ready applications and cloud-native solutions. My expertise spans <strong>React.js, Next.js, TypeScript, Node.js, Docker, AWS, CI/CD, and microservices architecture</strong>.
 
+I focus on solving real-world problems with clean code, scalable design, and cost-efficient cloud solutions. From video streaming platforms to containerized microservices, I enjoy tackling complex technical challenges and building systems that scale.
+</p>
 
 ### Connect with me:
 
