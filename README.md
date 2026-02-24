@@ -58,6 +58,8 @@ I focus on solving real-world problems with clean code, scalable design, and cos
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Protik111&card_width=550&show_icons=true&theme=radical)](https://github.com/Protik111)
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Protik111&" alt="Protik" /></p>
+
 <!--
 **Protik111/Protik111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
