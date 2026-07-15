@@ -39,66 +39,66 @@ I focus on solving real-world problems with clean code, scalable design, and cos
 <table>
 <tr>
 <td width="50%" valign="top">
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; height: 100%; background: #fafbfc;">
-    <h3 style="margin-top: 0;">🗂 Content Processing Platform</h3>
-    <p style="min-height: 100px; margin-bottom: 12px;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; height: 100%; display: flex; flex-direction: column; background: #fafbfc;">
+    <h3 style="margin-top: 0; margin-bottom: 12px;">🗂 Content Processing Platform</h3>
+    <p style="flex-grow: 0; margin-bottom: 12px; min-height: 80px;">
       Event-driven microservices ecosystem with RabbitMQ job orchestration, Kong API Gateway, and Keycloak OAuth2/JWT. Real-time dashboard sync via SSE instead of polling.
     </p>
-    <p style="margin-bottom: 12px;">
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Node.js</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">RabbitMQ</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Kong</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Keycloak</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Redis</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">PostgreSQL</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Docker</code>
-    </p>
-    <p>
+    <div style="margin-bottom: 16px;">
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">Node.js</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">RabbitMQ</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">Kong</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">Keycloak</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">Redis</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">PostgreSQL</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">Docker</code>
+    </div>
+    <div style="margin-top: auto;">
       <a href="https://github.com/Protik111/content-processing-platform" target="_blank"><strong>View repo →</strong></a>
-    </p>
+    </div>
   </div>
 </td>
 <td width="50%" valign="top">
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; height: 100%; background: #fafbfc;">
-    <h3 style="margin-top: 0;">⚡ Distributed Report Queue</h3>
-    <p style="min-height: 100px; margin-bottom: 12px;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; height: 100%; display: flex; flex-direction: column; background: #fafbfc;">
+    <h3 style="margin-top: 0; margin-bottom: 12px;">⚡ Distributed Report Queue</h3>
+    <p style="flex-grow: 0; margin-bottom: 12px; min-height: 80px;">
       Redis-backed BullMQ job queues handling concurrent Puppeteer PDF generation. AWS infra provisioned with Pulumi IaC, zero-downtime deploys via GitHub Actions.
     </p>
-    <p style="margin-bottom: 12px;">
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Redis</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">BullMQ</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">AWS</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Pulumi</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">GitHub Actions</code>
-    </p>
-    <p>
+    <div style="margin-bottom: 16px;">
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">Express.js</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">TypeScript</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">Redis</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">BullMQ</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">AWS</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">Pulumi</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">GitHub Actions</code>
+    </div>
+    <div style="margin-top: auto;">
       <a href="https://github.com/Protik111/distributed-report-queue" target="_blank"><strong>View repo →</strong></a>
-    </p>
+    </div>
   </div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; height: 100%; background: #fafbfc;">
-    <h3 style="margin-top: 0;">🎥 Video Upload Service</h3>
-    <p style="min-height: 100px; margin-bottom: 12px;">
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; height: 100%; display: flex; flex-direction: column; background: #fafbfc;">
+    <h3 style="margin-top: 0; margin-bottom: 12px;">🎥 Video Upload Service</h3>
+    <p style="flex-grow: 0; margin-bottom: 12px; min-height: 80px;">
       Uploads video, transcodes to HLS (.ts/.m3u8) with FFMPEG, stores on Cloudinary, and overlays animated watermarks during processing.
     </p>
-    <p style="margin-bottom: 12px;">
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">TypeScript</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Express.js</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Prisma</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">FFMPEG</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Cloudinary</code>
-      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">hls.js</code>
-    </p>
-    <p>
+    <div style="margin-bottom: 16px;">
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">TypeScript</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">Express.js</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">Prisma</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">FFMPEG</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">Cloudinary</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin: 2px;">hls.js</code>
+    </div>
+    <div style="margin-top: auto;">
       <a href="https://github.com/Protik111/video-upload-service" target="_blank"><strong>View repo →</strong></a>
-      <!-- For YouTube demo, uncomment below:
       &nbsp;|&nbsp;
-      <a href="https://youtube.com/your-video" target="_blank"><strong>Watch Demo ▶</strong></a>
-      -->
-    </p>
+      <a href="https://youtu.be/LliYy7gxnUk" target="_blank"><strong>Watch Demo ▶</strong></a>
+    </div>
   </div>
 </td>
 </tr>
