@@ -9,13 +9,13 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/rafiur-rahman-protik-476734159/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linked_in&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://medium.com/@rafiurrahmanprotik" target="_blank">
   <img src="https://img.shields.io/badge/Medium-7C3AED?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-<a href="https://www.facebook.com/Rafiur.Rahman.Protik" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-7C3AED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+<a href="https://x.com/Protik111" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-7C3AED?style=for-the-badge&logo=x&logoColor=white" alt="Facebook" />
 </a>
 <a href="https://stackoverflow.com/users/16166513/rafiur-rahman-protik?tab=profile" target="_blank">
   <img src="https://img.shields.io/badge/Stack_Overflow-7C3AED?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
