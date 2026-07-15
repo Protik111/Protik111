@@ -1,76 +1,148 @@
-<h1 align="center">Hi there 👋</h1> 
+<div align="center">
 
-<h3 align="center">I'm <span>Rafiur Rahman Protik</span> • Full-stack Software Engineer & DevOps Enthusiast</h3>
+# Rafiur Rahman Protik
+
+### Full-Stack Software Engineer — architecting scalable systems, one sketch at a time
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F7A6C&center=true&vCenter=true&width=560&lines=Building+scalable+full-stack+systems;React+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+AWS;Event-driven+%7C+microservices+%7C+cloud-native)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rafiur-rahman-protik-476734159/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://medium.com/@rafiurrahmanprotik" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-7C3AED?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="https://www.facebook.com/Rafiur.Rahman.Protik" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-7C3AED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://stackoverflow.com/users/16166513/rafiur-rahman-protik?tab=profile" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-7C3AED?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+</a>
+<a href="https://heyprotik.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+<br/>
 
 <p align="left">
-Welcome to my GitHub! I’m a passionate Full-stack Software Engineer building scalable, production-ready applications and cloud-native solutions. My expertise spans <strong>React.js, Next.js, TypeScript, Node.js, Docker, AWS, CI/CD, and microservices architecture</strong>.
+Welcome to my GitHub! I’m a passionate Full-Stack Software Engineer building scalable, production-ready applications and cloud-native solutions. My expertise spans <strong>React.js, Next.js, TypeScript, Node.js, Docker, AWS, CI/CD, and microservices architecture</strong>.
 
 I focus on solving real-world problems with clean code, scalable design, and cost-efficient cloud solutions. From video streaming platforms to containerized microservices, I enjoy tackling complex technical challenges and building systems that scale.
 </p>
 
-### Connect with me:
+## Featured Projects
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rafiur-rahman-protik-476734159/) 
-[![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/Rafiur.Rahman.Protik) 
-[![Medium Read](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@rafiurrahmanprotik) 
-[![Questions Ask](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/16166513/rafiur-rahman-protik?tab=profile)
+<table>
+<tr>
+<td width="50%" valign="top">
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; height: 100%; background: #fafbfc;">
+    <h3 style="margin-top: 0;">🗂 Content Processing Platform</h3>
+    <p style="min-height: 100px; margin-bottom: 12px;">
+      Event-driven microservices ecosystem with RabbitMQ job orchestration, Kong API Gateway, and Keycloak OAuth2/JWT. Real-time dashboard sync via SSE instead of polling.
+    </p>
+    <p style="margin-bottom: 12px;">
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Node.js</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">RabbitMQ</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Kong</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Keycloak</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Redis</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">PostgreSQL</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Docker</code>
+    </p>
+    <p>
+      <a href="https://github.com/Protik111/content-processing-platform" target="_blank"><strong>View repo →</strong></a>
+    </p>
+  </div>
+</td>
+<td width="50%" valign="top">
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; height: 100%; background: #fafbfc;">
+    <h3 style="margin-top: 0;">⚡ Distributed Report Queue</h3>
+    <p style="min-height: 100px; margin-bottom: 12px;">
+      Redis-backed BullMQ job queues handling concurrent Puppeteer PDF generation. AWS infra provisioned with Pulumi IaC, zero-downtime deploys via GitHub Actions.
+    </p>
+    <p style="margin-bottom: 12px;">
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Redis</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">BullMQ</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">AWS</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Pulumi</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">GitHub Actions</code>
+    </p>
+    <p>
+      <a href="https://github.com/Protik111/distributed-report-queue" target="_blank"><strong>View repo →</strong></a>
+    </p>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; height: 100%; background: #fafbfc;">
+    <h3 style="margin-top: 0;">🎥 Video Upload Service</h3>
+    <p style="min-height: 100px; margin-bottom: 12px;">
+      Uploads video, transcodes to HLS (.ts/.m3u8) with FFMPEG, stores on Cloudinary, and overlays animated watermarks during processing.
+    </p>
+    <p style="margin-bottom: 12px;">
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">TypeScript</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Express.js</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Prisma</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">FFMPEG</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">Cloudinary</code>
+      <code style="background: #f3f4f6; padding: 4px 8px; border-radius: 4px; font-size: 12px;">hls.js</code>
+    </p>
+    <p>
+      <a href="https://github.com/Protik111/video-upload-service" target="_blank"><strong>View repo →</strong></a>
+      <!-- For YouTube demo, uncomment below:
+      &nbsp;|&nbsp;
+      <a href="https://youtube.com/your-video" target="_blank"><strong>Watch Demo ▶</strong></a>
+      -->
+    </p>
+  </div>
+</td>
+</tr>
+</table>
 
+<br/>
 
-### 🛠 &nbsp;Tech Stack
+## Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=#f2ece4)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=Tailwindcss&logoColor=#f2ece4)&nbsp;
-<br />
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-<br />
-![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=Mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)&nbsp;
-<br />
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![React Query](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=reactQuery)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
-<br />
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=antdesign&logoColor=007ACC)&nbsp;
-![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui)&nbsp;
-![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-05122A?style=flat&logo=mantine)&nbsp;
-<br />
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-<br />
-![Dcoker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws&logoColor=007ACC)&nbsp;
+<p align="left">
+  <!-- Core Languages & Frontend -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass&theme=dark" alt="Frontend Tech" />
+  </a>
+  <br/>
+  <!-- Backend & Databases -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,prisma,redis,rabbitmq&theme=dark" alt="Backend Tech" />
+  </a>
+  <br/>
+  <!-- DevOps, Cloud & Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,linux,nginx,jest&theme=dark" alt="DevOps Tech" />
+  </a>
+  <br/>
+  <br/>
+  <b>Specialized Enterprise Tools</b>
+  <br/>
+  <!-- Specialized Enterprise Tools (Clean Badges) -->
+    <!-- Specialized Enterprise Tools (Larger Badges) -->
+ <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white" alt="Kong" />
+  <img src="https://img.shields.io/badge/Keycloak-7C3AED?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/Pulumi-7C3AED?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi" />
+  <img src="https://img.shields.io/badge/BullMQ-7C3AED?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+</p>
+</p>
 
-![Protik111's github stats](https://github-readme-stats.vercel.app/api?username=Protik111&show_icons=true&theme=radical)
+<br/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Protik111&card_width=550&show_icons=true&theme=radical)](https://github.com/Protik111)
+## GitHub Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Protik111&" alt="Protik" /></p>
-
-<!--
-**Protik111/Protik111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Protik111&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=1F7A6C&fire=1F7A6C&currStreakLabel=1F7A6C" width="49%" alt="Streak Stats" />
+</div>
